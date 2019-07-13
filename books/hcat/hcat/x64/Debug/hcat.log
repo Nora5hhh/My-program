@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\c++编程\books\hcat\hcat\源.cpp(12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\c++编程\books\hcat\hcat\源.cpp(19): warning C4101: “right_len”: 未引用的局部变量
+  hcat.vcxproj -> F:\C++编程\books\hcat\x64\Debug\hcat.exe
