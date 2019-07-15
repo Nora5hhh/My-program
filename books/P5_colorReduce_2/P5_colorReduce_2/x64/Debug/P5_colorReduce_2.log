@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\c++编程\books\p5_colorreduce_2\p5_colorreduce_2\源.cpp(24): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+f:\c++编程\books\p5_colorreduce_2\p5_colorreduce_2\源.cpp(26): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+  P5_colorReduce_2.vcxproj -> F:\C++编程\books\P5_colorReduce_2\x64\Debug\P5_colorReduce_2.exe
