@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\c++编程\books\p5_filestorage\p5_filestorage\源.cpp(14): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(117): note: 参见“asctime”的声明
+  P5_FileStorage.vcxproj -> F:\C++编程\books\P5_FileStorage\x64\Debug\P5_FileStorage.exe

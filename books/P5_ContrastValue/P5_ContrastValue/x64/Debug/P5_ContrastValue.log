@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\c++编程\books\p5_contrastvalue\p5_contrastvalue\源.cpp(30): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+f:\c++编程\books\p5_contrastvalue\p5_contrastvalue\源.cpp(41): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+  P5_ContrastValue.vcxproj -> F:\C++编程\books\P5_ContrastValue\x64\Debug\P5_ContrastValue.exe
